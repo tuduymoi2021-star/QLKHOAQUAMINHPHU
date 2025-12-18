@@ -1,0 +1,8 @@
+{
+  "name": "QLKHOAQUA2",
+  "description": "Hệ thống quản lý vật tư thí nghiệm cho ShrimpVet với tính năng QR code, báo cáo và trợ lý AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
